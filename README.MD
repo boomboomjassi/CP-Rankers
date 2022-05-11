@@ -11,27 +11,18 @@
 - toph https://toph.co/leaderboard/solvers?filter=country&country=55ab9cec421aa92cc4000069
 - Kattis (ICPC problems) https://open.kattis.com/countries/IND
 
-
 ## Global Ranklist(no country specific list given)
 
 - Timus https://acm.timus.ru/ranklist.aspx?sort=solved
 - DMOJ (IOI and ICPC problems) https://dmoj.ca/users/
 - Project Euler https://projecteuler.net/award=1;page=1
-- https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorsrank&limit=50&limitstart=0
+- UVa Online Judge/Online Judge https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorsrank&limit=50&limitstart=0
 - https://loj.ac/u
 - acmp.ru https://acmp.ru/index.asp?main=rating
 - CSES https://cses.fi/problemset/stats/p/1
 - Advent of Code https://adventofcode.com/2021/leaderboard
 - dunjudge https://dunjudge.me/pages/ranking.php
-
-- UVa Online Judge/Online Judge
-- USACO
-- oj.uz (IOI and ICPC)
-- acmicpc.net (ICPC problems like Live Archive)
-- e-olymp (olympiad)
-
-judtge.org
-
+- acmicpc.net (Korean) https://www.acmicpc.net/ranklist
 
 
 ## Open Submissions
