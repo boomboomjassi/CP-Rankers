@@ -10,7 +10,7 @@
 - Codeforces (also has SGU under acmsguru) https://codeforces.com/ratings/country/India
 - URI Online Judge/Beecrowd https://www.beecrowd.com.br/judge/en/users/country/in
 - toph https://toph.co/leaderboard/solvers?filter=country&country=55ab9cec421aa92cc4000069
-- Kattis (ICPC problems) https://open.kattis.com/countries/IND
+- Kattis https://open.kattis.com/countries/IND
 
 ## Global Ranklist(no country specific list given)
 
