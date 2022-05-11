@@ -7,8 +7,8 @@
 - Atcoder (also has JOI problems) https://atcoder.jp/ranking?f.Country=IN&f.UserScreenName=&f.Affiliation=&f.BirthYearLowerBound=0&f.BirthYearUpperBound=9999&f.RatingLowerBound=0&f.RatingUpperBound=9999&f.HighestRatingLowerBound=0&f.HighestRatingUpperBound=9999&f.CompetitionsLowerBound=0&f.CompetitionsUpperBound=9999&f.WinsLowerBound=0&f.WinsUpperBound=9999&contestType=algo
 - Topcoder https://community.topcoder.com/tc?module=AlgoRank&cc=356
 - Codeforces (also has SGU under acmsguru) https://codeforces.com/ratings/country/India
-- https://www.beecrowd.com.br/judge/en/users/country/in
-- toph.co https://toph.co/leaderboard/solvers?filter=country&country=55ab9cec421aa92cc4000069
+- URI Online Judge/Beecrowd https://www.beecrowd.com.br/judge/en/users/country/in
+- toph https://toph.co/leaderboard/solvers?filter=country&country=55ab9cec421aa92cc4000069
 - Kattis (ICPC problems) https://open.kattis.com/countries/IND
 
 
@@ -22,16 +22,16 @@
 - acmp.ru https://acmp.ru/index.asp?main=rating
 - CSES https://cses.fi/problemset/stats/p/1
 - Advent of Code https://adventofcode.com/2021/leaderboard
-- dunjudge.me https://dunjudge.me/pages/ranking.php
+- dunjudge https://dunjudge.me/pages/ranking.php
 
-UVa Online Judge/Online Judge
-USACO
-oj.uz (IOI and ICPC)
-acmicpc.net (ICPC problems like Live Archive)
-e-olymp (olympiad)
+- UVa Online Judge/Online Judge
+- USACO
+- oj.uz (IOI and ICPC)
+- acmicpc.net (ICPC problems like Live Archive)
+- e-olymp (olympiad)
 
 judtge.org
-URI Online Judge (ICPC)
+
 
 
 ## Open Submissions
