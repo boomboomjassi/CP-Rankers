@@ -9,6 +9,7 @@
 - https://codeforces.com/ratings/country/India
 - https://www.beecrowd.com.br/judge/en/users/country/in
 - https://toph.co/leaderboard/solvers?filter=country&country=55ab9cec421aa92cc4000069
+- https://open.kattis.com/countries/IND
 
 
 ## Global Ranklist(no country specific list given)
@@ -20,6 +21,7 @@
 - https://loj.ac/u
 - https://acmp.ru/index.asp?main=rating
 - https://cses.fi/problemset/stats/p/1
+- https://adventofcode.com/2021/leaderboard
 
 ## Open Submissions
 
