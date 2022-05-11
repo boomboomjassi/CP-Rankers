@@ -7,7 +7,7 @@
 - Leetcode https://leetcode-country-ranking.herokuapp.com/country/IN
 - Atcoder https://atcoder.jp/ranking/all?f.Country=IN&contestType=algo
 - Topcoder https://community.topcoder.com/tc?module=AlgoRank&cc=356
-- Codeforces (also has SGU under acmsguru) https://codeforces.com/ratings/country/India
+- Codeforces https://codeforces.com/ratings/country/India
 - URI Online Judge/Beecrowd https://www.beecrowd.com.br/judge/en/users/country/in
 - toph https://toph.co/leaderboard/solvers?filter=country&country=55ab9cec421aa92cc4000069
 - Kattis https://open.kattis.com/countries/IND
