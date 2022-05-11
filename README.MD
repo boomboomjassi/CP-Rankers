@@ -8,7 +8,7 @@
 - Topcoder https://community.topcoder.com/tc?module=AlgoRank&cc=356
 - Codeforces (also has SGU under acmsguru) https://codeforces.com/ratings/country/India
 - https://www.beecrowd.com.br/judge/en/users/country/in
-- https://toph.co/leaderboard/solvers?filter=country&country=55ab9cec421aa92cc4000069
+- toph.co https://toph.co/leaderboard/solvers?filter=country&country=55ab9cec421aa92cc4000069
 - Kattis (ICPC problems) https://open.kattis.com/countries/IND
 
 
@@ -19,8 +19,8 @@
 - Project Euler https://projecteuler.net/award=1;page=1
 - https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorsrank&limit=50&limitstart=0
 - https://loj.ac/u
-- https://acmp.ru/index.asp?main=rating
-- https://cses.fi/problemset/stats/p/1
+- acmp.ru https://acmp.ru/index.asp?main=rating
+- CSES https://cses.fi/problemset/stats/p/1
 - Advent of Code https://adventofcode.com/2021/leaderboard
 - dunjudge.me https://dunjudge.me/pages/ranking.php
 
@@ -29,11 +29,10 @@ USACO
 oj.uz (IOI and ICPC)
 acmicpc.net (ICPC problems like Live Archive)
 e-olymp (olympiad)
-toph.co
-acmp.ru
+
 judtge.org
 URI Online Judge (ICPC)
-CSES
+
 
 ## Open Submissions
 
