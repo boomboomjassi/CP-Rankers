@@ -5,7 +5,7 @@
 - CodeChef https://www.codechef.com/ratings/all?filterBy=Country%3DIndia&itemsPerPage=15&order=asc&page=1&sortBy=global_rank
 - SPOJ https://www.spoj.com/ranks/users/IN/start=0
 - Leetcode https://leetcode-country-ranking.herokuapp.com/country/IN
-- Atcoder (also has JOI problems) https://atcoder.jp/ranking?f.Country=IN&f.UserScreenName=&f.Affiliation=&f.BirthYearLowerBound=0&f.BirthYearUpperBound=9999&f.RatingLowerBound=0&f.RatingUpperBound=9999&f.HighestRatingLowerBound=0&f.HighestRatingUpperBound=9999&f.CompetitionsLowerBound=0&f.CompetitionsUpperBound=9999&f.WinsLowerBound=0&f.WinsUpperBound=9999&contestType=algo
+- Atcoder https://atcoder.jp/ranking?f.Country=IN&f.UserScreenName=&f.Affiliation=&f.BirthYearLowerBound=0&f.BirthYearUpperBound=9999&f.RatingLowerBound=0&f.RatingUpperBound=9999&f.HighestRatingLowerBound=0&f.HighestRatingUpperBound=9999&f.CompetitionsLowerBound=0&f.CompetitionsUpperBound=9999&f.WinsLowerBound=0&f.WinsUpperBound=9999&contestType=algo
 - Topcoder https://community.topcoder.com/tc?module=AlgoRank&cc=356
 - Codeforces (also has SGU under acmsguru) https://codeforces.com/ratings/country/India
 - URI Online Judge/Beecrowd https://www.beecrowd.com.br/judge/en/users/country/in
