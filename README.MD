@@ -7,6 +7,7 @@
 - https://atcoder.jp/ranking?f.Country=IN&f.UserScreenName=&f.Affiliation=&f.BirthYearLowerBound=0&f.BirthYearUpperBound=9999&f.RatingLowerBound=0&f.RatingUpperBound=9999&f.HighestRatingLowerBound=0&f.HighestRatingUpperBound=9999&f.CompetitionsLowerBound=0&f.CompetitionsUpperBound=9999&f.WinsLowerBound=0&f.WinsUpperBound=9999&contestType=algo
 - https://community.topcoder.com/tc?module=AlgoRank&cc=356
 - https://codeforces.com/ratings/country/India
+- https://www.beecrowd.com.br/judge/en/users/country/in
 
 
 ## Global(no country specific list given)
@@ -17,3 +18,7 @@
 - https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorsrank&limit=50&limitstart=0
 - https://loj.ac/u
 
+## Open Submissions
+
+- https://oj.uz/submissions
+- https://loj.ac/s
