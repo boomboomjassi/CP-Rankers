@@ -15,7 +15,7 @@
 ## Global Ranklist(no country specific list given)
 
 - Timus https://acm.timus.ru/ranklist.aspx?sort=solved
-- DMOJ (IOI and ICPC problems) https://dmoj.ca/users/
+- DMOJ https://dmoj.ca/users/
 - Project Euler https://projecteuler.net/award=1;page=1
 - UVa Online Judge/Online Judge https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorsrank&limit=50&limitstart=0
 - LOJ https://loj.ac/u
