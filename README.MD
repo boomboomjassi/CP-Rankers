@@ -1,4 +1,4 @@
-## India
+## Indian Ranklist
 
 - https://www.hackerrank.com/leaderboard?filter=India&filter_on=country&page=1
 - https://www.codechef.com/ratings/all?filterBy=Country%3DIndia&itemsPerPage=15&order=asc&page=1&sortBy=global_rank
@@ -11,7 +11,7 @@
 - https://toph.co/leaderboard/solvers?filter=country&country=55ab9cec421aa92cc4000069
 
 
-## Global(no country specific list given)
+## Global Ranklist(no country specific list given)
 
 - https://acm.timus.ru/ranklist.aspx?sort=solved
 - https://dmoj.ca/users/
@@ -19,6 +19,7 @@
 - https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorsrank&limit=50&limitstart=0
 - https://loj.ac/u
 - https://acmp.ru/index.asp?main=rating
+- https://cses.fi/problemset/stats/p/1
 
 ## Open Submissions
 
