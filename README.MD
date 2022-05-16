@@ -19,6 +19,7 @@
 - Project Euler https://projecteuler.net/award=1;page=1
 - UVa Online Judge/Online Judge https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorsrank&limit=50&limitstart=0
 - LOJ https://loj.ac/u
+- Light OJ https://lightoj.com/ranks
 - ACMP https://acmp.ru/index.asp?main=rating
 - CSES https://cses.fi/problemset/stats/p/1
 - Advent of Code https://adventofcode.com/2021/leaderboard
