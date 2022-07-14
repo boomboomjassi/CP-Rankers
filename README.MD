@@ -1,13 +1,13 @@
 ## Indian Ranklist
 
-- [Hackerrank](https://www.hackerrank.com/leaderboard?filter=India&filter_on=country&page=1)
-- [Hackerearth](https://www.hackerearth.com/leaderboard/contests/rated?country=IN)
-- [CodeChef](https://www.codechef.com/ratings/all?filterBy=Country%3DIndia&itemsPerPage=15&order=asc&page=1&sortBy=global_rank)
-- [SPOJ](https://www.spoj.com/ranks/users/IN/start=0)
-- [Leetcode](https://leetcode-country-ranking.herokuapp.com/country/IN)
+- [Hackerrank](https://www.hackerrank.com/leaderboard?filter=India&filter_on=country&page=1) - 300+
+- [Hackerearth](https://www.hackerearth.com/leaderboard/contests/rated?country=IN) - 900+
+- [CodeChef](https://www.codechef.com/ratings/all?filterBy=Country%3DIndia&itemsPerPage=15&order=asc&page=1&sortBy=global_rank) - 1000+
+- [SPOJ](https://www.spoj.com/ranks/users/IN/start=0) - 1200+
+- [Leetcode](https://leetcode-country-ranking.herokuapp.com/country/IN) - 800
 - [Atcoder](https://atcoder.jp/ranking/all?f.Country=IN&contestType=algo)
 - [Topcoder](https://community.topcoder.com/tc?module=AlgoRank&cc=356)
-- [Codeforces](https://codeforces.com/ratings/country/India)
+- [Codeforces](https://codeforces.com/ratings/country/India) - 2200+
 - [URI Online Judge/Beecrowd](https://www.beecrowd.com.br/judge/en/users/country/in)
 - [Toph](https://toph.co/leaderboard/solvers?filter=country&country=55ab9cec421aa92cc4000069)
 - [Kattis](https://open.kattis.com/countries/IND)
