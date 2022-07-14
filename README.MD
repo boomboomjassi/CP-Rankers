@@ -31,3 +31,5 @@
 
 - [OJ](https://oj.uz/submissions)
 - [LOJ](https://loj.ac/s)
+
+*number on the right is the approx no of problems solved by a topper
