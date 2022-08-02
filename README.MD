@@ -35,7 +35,7 @@
 *number on the right is the approx no of problems solved by a topper
 
 ## Country Stats(Aug 2022)
-| Country   |   Codeforces Red      |  Codeched 7*      | Topcoder Red      |  Atcoder Red
+| Country   |   Codeforces Red      |  Codechef 7*      | Topcoder Red      |  Atcoder Red
 |----------|:-------------:|------:|------:|------:|
 | China |  215 | 6  | 12 | 64 |
 | Russia |  60  | 18 | 12 | 31 |
