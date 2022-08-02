@@ -33,3 +33,11 @@
 - [LOJ](https://loj.ac/s)
 
 *number on the right is the approx no of problems solved by a topper
+
+## Coountry Stats
+| Country   |   Codeforces Red      |  Codeched 7*      | Topcoder Red      |  Atcoder Red
+|----------|:-------------:|------:|------:|------:|
+| China |  215 | 6  | 12 | 64 |
+| Russia |  60  | 18 | 12 | 31 |
+| Japan |  59  | 24 | 21 | 60 |
+| India |  10  | 8  | 2 | 0 |
