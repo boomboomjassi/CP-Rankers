@@ -41,3 +41,17 @@
 | Russia |  60  | 18 | 12 | 31 |
 | Japan |  59  | 24 | 21 | 60 |
 | India |  10  | 9  | 2 | 0 |
+
+### Facebook Hacker-Cup Country Stats(Till 2022)
+| Country   |   1st place      |  2nd place      | 3rd place
+|----------|:-------------:|------:|------:|------:|
+| Russia | 5 | 1 | 3|
+| Belarus | 4 | 0 | 0|
+| USA | 1 | 1 | 2|
+| Japan | 1 | 1 | 1|
+| Poland | 0 | 3 | 1|
+| Ukraine | 0 | 2 | 0|
+| China | 0 | 1 | 3|
+| South Korea | 0 | 1 | 0
+| Vietnam | 0 | 1 | 0|
+| Taiwan | 0 | 0 | 1 |
