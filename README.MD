@@ -43,8 +43,8 @@
 | India |  10  | 9  | 2 | 0 |
 
 ### Facebook Hacker-Cup Country Stats(Till 2022)
-| Country   |   1st place      |  2nd place      | 3rd place
-|----------|:-------------:|------:|------:|------:|
+| Country   |   1st place      |  2nd place      | 3rd place|
+|----------|:-------------:|------:|------:|
 | Russia | 5 | 1 | 3|
 | Belarus | 4 | 0 | 0|
 | USA | 1 | 1 | 2|
@@ -55,3 +55,23 @@
 | South Korea | 0 | 1 | 0
 | Vietnam | 0 | 1 | 0|
 | Taiwan | 0 | 0 | 1 |
+
+### Google Code Jam Country Stats(Till 2022)
+| Country   |   1st place      |  2nd place      | 3rd place|
+|----------|:-------------:|------:|------:|
+|Belarus| 9| 1|  0|
+|China| 3| 4|  1|
+|Russia|  2|  2|  7|
+|Poland|  2|  1|  1|
+|Japan|  1|  3|  2|
+|Argentina|  1|  0|  0|
+|Sweden|  1| 0|  0|
+|USA|  0|  2|  4|
+|Canada|  0|  2|  1|
+|Netherlands|  0|  2|  0|
+|Philippines|  0|  1|  0|
+|Ukraine|  0|  1|  0|
+|South Africa|  0|  0|  2|
+|Slovakia|  0|  0|  1 |
+
+
