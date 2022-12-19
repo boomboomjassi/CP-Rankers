@@ -28,7 +28,7 @@
  | codedrills.io                          | 85       | 18201        | 125     
  | neerc.ifmo.ru                          | 252      | 17308       
  | challenges.reply.com                   | 26       | 16646       
- | acm.timus.ru                           | 108      | 13620       
+ | acm.timus.ru                           | 108      | 13620        | 2157    
  | hsin.hr/coci                           | 126      | 12529       
  | yandex.com/cup                         | 52       | 12499       
  | opencup.ru                             | 149      | 11490       
