@@ -1,6 +1,7 @@
  | Website                                | Contests | Users | Problems
  | -------------------------------------- | -------- | ------------ | --------
  | leetcode.com                           | 419      | 5000000+     | 2509    
+ | projecteuler.net                       | 9        | 1038548      | 821       
  | spoj.com                               | 5345     | 1011912      | 6975    
  | codechef.com                           | 1901     | 1000000+     | 3981    
  | codeforces.com                         | 1688     | 821831       | 8400    
@@ -46,7 +47,6 @@
  | acm.bsu.by                             | 126      | 6001        
  | adventofcode.com                       | 205      | 5552        
  | binarysearch.com                       | 64       | 5077        
- | projecteuler.net                       | 9        | 1038548      | 821       
  | yukicoder.me                           | 413      | 3861        
  | tlx.toki.id                            | 141      | 3821        
  | judge.yosupo.jp                        | 0        | 3306         | 144     
