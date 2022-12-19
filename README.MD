@@ -1,4 +1,4 @@
-| Website                  | Rating | Participants |
+| Website                  | Contests | Participants |
 |--------------------------|--------|--------------|
 | codeforces.com           | 1,688  | 821,831      |
 | codechef.com             | 1,901  | 606,811      |
