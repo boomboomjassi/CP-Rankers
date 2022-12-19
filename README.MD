@@ -69,7 +69,7 @@
  | dphi.tech                              | 152      | 0           
  | neerc.ifmo.ru/trains                   | 149      | 0           
  | it-edu.mipt.ru                         | 2        | 40          
- | lightoj.com                            | 103      | 0           
+ | lightoj.com                            | 103      | 31101           
  | codility.com                           | 96       | 0           
  | uva.onlinejudge.org                    | 58       | 0           
  | acm.hdu.edu.cn                         | 30       | 0           
