@@ -9,6 +9,7 @@
  | hackerrank.com                         | 392      | 275250       | 560     
  | codeforces.com/gyms                    | 1386     | 220840      
  | atcoder.jp                             | 970      | 210837      
+ | eolymp.com                             | 1651     | 152475       | 8550
  | hackerearth.com                        | 1907     | 140842       | 1624    
  | open.kattis.com                        | 13850    | 140759       | 3580    
  | facebook.com/hackercup                 | 61       | 114495      
@@ -18,7 +19,6 @@
  | my.newtonschool.co                     | 32       | 55681        | 92      
  | codingame.com                          | 62       | 48566        | 1320    
  | acmp.ru                                | 673      | 40972        | 1000
- | eolymp.com                             | 1651     | 40450       
  | bestcoder.hdu.edu.cn                   | 156      | 38962       
  | lightoj.com                            | 103      | 31101        | 1000    
  | cups.online                            | 306      | 29426       
