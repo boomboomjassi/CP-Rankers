@@ -1,7 +1,7 @@
  | Website                                | Contests | Users | Problems
  | -------------------------------------- | -------- | ------------ | --------
  | leetcode.com                           | 419      | 5000000+     | 2509    
- | projecteuler.net                       | 9        | 1038548      | 821       
+ | projecteuler.net                       | 0        | 1038548      | 821       
  | spoj.com                               | 5345     | 1011912      | 6975    
  | codechef.com                           | 1901     | 1000000+     | 3981    
  | codeforces.com                         | 1688     | 821831       | 8400    
