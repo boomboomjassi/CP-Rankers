@@ -31,6 +31,7 @@
  | acm.timus.ru                           | 108      | 13620        | 2157    
  | hsin.hr/coci                           | 126      | 12529       
  | yandex.com/cup                         | 52       | 12499       
+ | algotester.com                         | 484      | 11541         | 1477     
  | opencup.ru                             | 149      | 11490       
  | cphof.org                              | 192      | 11167       
  | acmu.ru                                | 639      | 10585       
@@ -45,7 +46,6 @@
  | acm.bsu.by                             | 126      | 6001        
  | adventofcode.com                       | 205      | 5552        
  | binarysearch.com                       | 64       | 5077        
- | algotester.com                         | 433      | 4246        
  | projecteuler.net                       | 824      | 4105        
  | yukicoder.me                           | 413      | 3861        
  | tlx.toki.id                            | 141      | 3821        
