@@ -71,7 +71,7 @@
  | it-edu.mipt.ru                         | 2        | 40          
  | lightoj.com                            | 103      | 31101           
  | codility.com                           | 96       | 0           
- | uva.onlinejudge.org                    | 58       | 0           
+ | uva.onlinejudge.org                    | 58       | 411664           
  | acm.hdu.edu.cn                         | 30       | 0           
  | azspcs.net                             | 26       | 0           
  | azspcs.net                             | 26       | 0           
