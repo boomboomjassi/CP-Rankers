@@ -16,8 +16,8 @@
  | topcoder.com                           | 2678     | 83582        | 5500    
  | geeksforgeeks.org                      | 167      | 72530        | 2755    
  | my.newtonschool.co                     | 32       | 55681        | 92      
- | codingame.com                          | 62       | 48566       
- | acmp.ru                                | 673      | 40972       
+ | codingame.com                          | 62       | 48566        | 1320    
+ | acmp.ru                                | 673      | 40972        | 1000
  | eolymp.com                             | 1651     | 40450       
  | bestcoder.hdu.edu.cn                   | 156      | 38962       
  | lightoj.com                            | 103      | 31101        | 1000    
