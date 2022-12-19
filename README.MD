@@ -6,7 +6,7 @@
  | codechef.com                           | 1901     | 1000000+     | 3981    
  | codeforces.com                         | 1688     | 821831       | 8400    
  | interviewbit.com                       | 116      | 607104       | 604     
- | uva.onlinejudge.org                    | 58       | 411664       | 4300    
+ | uva.onlinejudge.org                    | 58       | 411664       | 5400+    
  | codingcompetitions.withgoogle.com      | 283      | 363510      
  | hackerrank.com                         | 392      | 275250       | 560     
  | codeforces.com/gyms                    | 1386     | 220840      
