@@ -6,7 +6,7 @@
  | codechef.com                           | 1901     | 606811       | 3981    
  | uva.onlinejudge.org                    | 58       | 411664       | 4300    
  | codingcompetitions.withgoogle.com      | 283      | 363510      
- | leetcode.com                           | 419      | 336185       | 2509    
+ | leetcode.com                           | 419      | 346946       | 2509    
  | hackerrank.com                         | 392      | 275250       | 560     
  | codeforces.com/gyms                    | 1386     | 220840      
  | atcoder.jp                             | 970      | 210837      
