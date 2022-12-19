@@ -22,7 +22,7 @@
  | open.kattis.com                        | 244      | 8,146       
  | codingcompetitions.withgoogle.com      | 283      | 363,510     
  | eolymp.com                             | 1,651    | 40,450      
- | csacademy.com                          | 127      | 8,432       
+ | csacademy.com                          | 127      | 8,586       
  | acmp.ru                                | 673      | 40,972      
  | binarysearch.com                       | 64       | 5,077       
  | geeksforgeeks.org                      | 167      | 72,530      
@@ -88,7 +88,6 @@
  | aigaming.com                           | 1        | 0           
  | battlecode.org                         | 1        | 0           
  | contest.bayan.ir                       | 0        | 0           
- | csacademy.com                          | 0        | 0           
  | yukicoder.me                           | 0        | 0           
  | tlx.toki.id                            | 0        | 0           
  | codedrills.io/dashboard                | 0        | 0           
