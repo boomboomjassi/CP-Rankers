@@ -7,10 +7,8 @@
 |codingcompetitions.withgoogle.com|283|363510
 |leetcode.com|419|336185|2509
 |hackerrank.com|392|275250|560
-|kaggle.com|548|252511
 |codeforces.com/gyms|1386|220840
 |atcoder.jp|970|210837
-|ctftime.org|1205|146551|23700
 |hackerearth.com|1907|140842|1624
 |facebook.com/hackercup|61|114495
 |spoj.com|47|106365|4000
@@ -101,6 +99,17 @@
 |vjudge.net/article/380|0|0|
 
 
+## AI
+
+|Website|Contests |Participants|Problems
+|-----------|---------------|--------|--------------
+|kaggle.com|548|252511
+
+## MISC
+
+|Website|Contests |Participants|Problems
+|-----------|---------------|--------|--------------
+|ctftime.org|1205|146551|23700
 
 ## Indian Ranklist
 
