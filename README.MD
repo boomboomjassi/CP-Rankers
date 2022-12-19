@@ -10,6 +10,7 @@
  | codeforces.com/gyms                    | 1386     | 220840      
  | atcoder.jp                             | 970      | 210837      
  | hackerearth.com                        | 1907     | 140842       | 1624    
+ | open.kattis.com                        | 13850    | 140759       | 3580    
  | facebook.com/hackercup                 | 61       | 114495      
  | spoj.com                               | 47       | 106365       | 4000    
  | topcoder.com                           | 2678     | 83582        | 5500    
@@ -36,8 +37,7 @@
  | cphof.org                              | 192      | 11167       
  | acmu.ru                                | 639      | 10585       
  | dmoj.ca                                | 383      | 8928        
- | csacademy.com                          | 127      | 8586         | 657     
- | open.kattis.com                        | 244      | 8146        
+ | csacademy.com                          | 127      | 8586         | 657    
  | russiancodecup.ru                      | 36       | 7515        
  | mycode.prepbytes.com                   | 116      | 7232        
  | russianaicup.ru                        | 33       | 7073        
