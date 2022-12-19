@@ -1,4 +1,4 @@
- | Website                                | Contests | Participants | Problems
+ | Website                                | Contests | Users | Problems
  | -------------------------------------- | -------- | ------------ | --------
  | codeforces.com                         | 1688     | 821831       | 7000    
  | interviewbit.com                       | 116      | 607104       | 604     
@@ -100,13 +100,13 @@
  
 ## AI
 
-|Website|Contests |Participants|Problems
+|Website|Contests |Users|Problems
 |-----------|---------------|--------|--------------
 |kaggle.com|548|252511
 
 ## MISC
 
-|Website|Contests |Participants|Problems
+|Website|Contests |Users|Problems
 |-----------|---------------|--------|--------------
 |ctftime.org|1205|146551|23700
 
