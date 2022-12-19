@@ -62,7 +62,6 @@
 | bubblecup.org            | 10     | 789          |
 | sort-me.org              | 10     | 635          |
 | potyczki.mimuw.edu.pl    | 6      | 997          |
-| quora.com                | 3      | 1,077        |
 | techgig.com              | 4      | 757          |
 | pcms.university.innopolis.ru | 1      | 1,676        |
 | codingninjas.com/codestudio | 169    | 0           |
