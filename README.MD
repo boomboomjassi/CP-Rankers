@@ -5,6 +5,7 @@
 | hackerearth.com          | 1,907  | 140,842      |
 | topcoder.com             | 2,678  | 83,582       |
 | atcoder.jp               | 970    | 210,837      |
+| spoj.com                 | 47     | 106365           |
 | dmoj.ca                  | 383    | 8,928        |
 | leetcode.com             | 419    | 336,185      |
 | hackerrank.com           | 392    | 275,250      |
@@ -71,7 +72,6 @@
 | lightoj.com              | 103    | 0           |
 | codility.com             | 96     | 0           |
 | uva.onlinejudge.org      | 58     | 0           |
-| spoj.com                 | 47     | 0           |
 | acm.hdu.edu.cn           | 30     | 0           |
 | azspcs.net               | 26     | 0           |
 | azspcs.net                       | 26   | 0           |
@@ -100,10 +100,10 @@
 | uoj.ac                            | 0    | 0           |
 | judge.yosupo.jp                   | 0    | 0           |
 | vjudge.net/article/380            | 0    | 0           |
-| www.interviewbit.com/practice     | 0    | 0           |
+| interviewbit.com/practice     | 0    | 0           |
 | practice.geeksforgeeks.org/topic-tags | 0    | 0           |
 | hack.codingblocks.com/app         | 0    | 0           |
-| www.prepbytes.com                 | 0    | 0           |
+| prepbytes.com                 | 0    | 0           |
 | acmicpc.net                       | 0    | 0           |
 
 
