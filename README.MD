@@ -127,7 +127,7 @@
  | -------------------------------------- | -------- | ------------ | ----------- | ------------------------
  | bubblecup.org                          | 0        | 0            | 2010-2021    | Yes 
  | icpcarchive.github.io                  | 0        | 0            | 2008-2021    | Yes              
- | icpc.global/worldfinals/past-problems  | 0        | 0            |   -          | No
+ | icpc.global/worldfinals/past-problems  | 0        | 0            | 1974-2021    | No (Yes only for 2017 & 2018)
  | icpcarchive.github.io or [here](https://github.com/boomboomjassi/CP-Rankers/blob/main/From_Baylor_to_Baylor.pdf)        | 0        | 0            | 1991-2006    | No              
 
 
