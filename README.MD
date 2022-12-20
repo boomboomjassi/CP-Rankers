@@ -49,6 +49,7 @@
  | binarysearch.com                       | 64       | 5077        
  | yukicoder.me                           | 413      | 3861        
  | tlx.toki.id                            | 141      | 3821        
+ | loj.ac                                 | 36       | 36750        | 2850           
  | judge.yosupo.jp                        | 0        | 3306         | 144     
  | contests.snarknews.info                | 171      | 3301        
  | robocontest.uz                         | 133      | 3101        
@@ -118,7 +119,6 @@
  | hihocoder.com                          | 0        | 0           
  | 51nod.com                              | 0        | 0           
  | jisuanke.com                           | 0        | 0           
- | loj.ac                                 | 0        | 0           
  | darkbzoj.cc                            | 0        | 0           
  | cpc.csgrandeur.cn                      | 0        | 0           
 
