@@ -99,7 +99,7 @@
  | prepbytes.com                          | 0        | 0           
  | uoj.ac                                 | 0        | 0           
  | vjudge.net/article/380                 | 0        | 0           
- | oj.uz                                  | 0        | 0           
+ | oj.uz                                  | 20        | 0         | 1300
  | dmoj.ca                                | 0        | 0           
  | poj.org                                | 0        | 0          
  | qoj.ac                                 | 0        | 0           
