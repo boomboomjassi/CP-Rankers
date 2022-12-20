@@ -11,6 +11,7 @@
  | hackerrank.com                         | 392      | 275250       | 560     
  | codeforces.com/gyms                    | 1386     | 220840      
  | atcoder.jp                             | 970      | 210837      
+ | acm.timus.ru                           | 108      | 153476       | 2157    
  | eolymp.com                             | 1651     | 152475       | 8550
  | hackerearth.com                        | 1907     | 140842       | 1624    
  | open.kattis.com                        | 13850    | 140759       | 3580    
@@ -32,7 +33,6 @@
  | codedrills.io                          | 85       | 18201        | 125     
  | neerc.ifmo.ru                          | 252      | 17308       
  | challenges.reply.com                   | 26       | 16646       
- | acm.timus.ru                           | 108      | 13620        | 2157    
  | hsin.hr/coci                           | 126      | 12529       
  | yandex.com/cup                         | 52       | 12499       
  | algotester.com                         | 484      | 11541        | 1477     
