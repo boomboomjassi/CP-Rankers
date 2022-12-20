@@ -14,6 +14,7 @@
  | eolymp.com                             | 1651     | 152475       | 8550
  | hackerearth.com                        | 1907     | 140842       | 1624    
  | open.kattis.com                        | 13850    | 140759       | 3580    
+ | dmoj.ca                                | 381      | 139300       | 4552        
  | facebook.com/hackercup                 | 61       | 114495      
  | topcoder.com                           | 2678     | 83582        | 5500    
  | geeksforgeeks.org                      | 167      | 72530        | 2755    
@@ -38,7 +39,6 @@
  | opencup.ru                             | 149      | 11490       
  | cphof.org                              | 192      | 11167       
  | acmu.ru                                | 639      | 10585       
- | dmoj.ca                                | 383      | 8928        
  | csacademy.com                          | 127      | 8586         | 657    
  | russiancodecup.ru                      | 36       | 7515        
  | mycode.prepbytes.com                   | 116      | 7232        
