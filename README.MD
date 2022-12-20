@@ -27,7 +27,7 @@
  | acmp.ru                                | 673      | 40972        | 1000        | Private
  | bestcoder.hdu.edu.cn                   | 156      | 38962        | 700+        | Public(Editorials)
  | loj.ac                                 | 36       | 36750        | 2850        | Public   
- | lightoj.com                            | 103      | 31101        | 1000    
+ | lightoj.com                            | 103      | 31101        | 1000        | Private
  | cups.online                            | 306      | 29426       
  | usaco.org                              | 55       | 22853       
  | toph.co                                | 382      | 22716        | 1654  
