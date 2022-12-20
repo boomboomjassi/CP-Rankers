@@ -9,7 +9,7 @@
  | interviewbit.com                       | 116      | 607104       | 604         | Private   
  | acmicpc.net                            | 481      | 413822       | 25632       | Private
  | uva.onlinejudge.org                    | 58       | 411664       | 5400+       | Private
- | codingcompetitions.withgoogle.com      | 283      | 363510       | 0           | Private
+ | codingcompetitions.withgoogle.com      | 283      | 363510       | 0           | Public(Editorials)
  | hackerrank.com                         | 392      | 275250       | 560         | Private
  | codeforces.com/gyms                    | 1386     | 220840       | 0           | Public
  | atcoder.jp                             | 970      | 210837       | 5000+       | Public
