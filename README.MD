@@ -62,6 +62,7 @@
  | contest.yandex.ru/CYF                  | 227      | 2077        
  | pcms.university.innopolis.ru           | 1        | 1676        
  | karelia.snarknews.info                 | 128      | 1603        
+ | oj.uz                                  | 20       | 1000+      | 1300
  | potyczki.mimuw.edu.pl                  | 6        | 997         
  | icfpconference.org                     | 25       | 907         
  | bubblecup.org                          | 10       | 789         
@@ -99,7 +100,6 @@
  | prepbytes.com                          | 0        | 0           
  | uoj.ac                                 | 0        | 0           
  | vjudge.net/article/380                 | 0        | 0           
- | oj.uz                                  | 20        | 0         | 1300
  | dmoj.ca                                | 0        | 0           
  | poj.org                                | 0        | 0          
  | qoj.ac                                 | 0        | 0           
