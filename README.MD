@@ -52,7 +52,7 @@
  | binarysearch.com                       | 64       | 5077        
  | yukicoder.me                           | 413      | 3861        
  | tlx.toki.id                            | 141      | 3821        
- | judge.yosupo.jp                        | 0        | 3306         | 144     
+ | judge.yosupo.jp                        | 0        | 3306         | 144       | Public
  | contests.snarknews.info                | 171      | 3301        
  | robocontest.uz                         | 133      | 3101        
  | contest.bioinf.me                      | 8        | 2908        
@@ -62,7 +62,7 @@
  | contest.yandex.ru/CYF                  | 227      | 2077        
  | pcms.university.innopolis.ru           | 1        | 1676        
  | karelia.snarknews.info                 | 128      | 1603        
- | oj.uz                                  | 20       | 1000+         | 1300  | Public
+ | oj.uz                                  | 20       | 1000+         | 1300    | Public
  | potyczki.mimuw.edu.pl                  | 6        | 997         
  | icfpconference.org                     | 25       | 907         
  | bubblecup.org                          | 10       | 789         
