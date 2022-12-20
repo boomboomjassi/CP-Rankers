@@ -1,17 +1,17 @@
- | Website                                | Contests | Users        | Problems
- | -------------------------------------- | -------- | ------------ | --------
- | leetcode.com                           | 419      | 5000000+     | 2509    
- | projecteuler.net                       | 0        | 1038548      | 821       
- | spoj.com                               | 5345     | 1011912      | 6975    
- | codechef.com                           | 1901     | 1000000+     | 3981    
- | codeforces.com                         | 1688     | 821831       | 8400    
+ | Website                                | Contests | Users        | Problems    | Solutions
+ | -------------------------------------- | -------- | ------------ | ----------- | --------
+ | leetcode.com                           | 419      | 5000000+     | 2509        | Public
+ | projecteuler.net                       | 0        | 1038548      | 821         | Private
+ | spoj.com                               | 5345     | 1011912      | 6975        | Private
+ | codechef.com                           | 1901     | 1000000+     | 3981        | Public
+ | codeforces.com                         | 1688     | 821831       | 8400        | Public
  | interviewbit.com                       | 116      | 607104       | 604     
  | acmicpc.net                            | 481      | 413822       | 25632           
  | uva.onlinejudge.org                    | 58       | 411664       | 5400+    
  | codingcompetitions.withgoogle.com      | 283      | 363510      
  | hackerrank.com                         | 392      | 275250       | 560     
  | codeforces.com/gyms                    | 1386     | 220840      
- | atcoder.jp                             | 970      | 210837      
+ | atcoder.jp                             | 970      | 210837                      | Public
  | acm.timus.ru                           | 108      | 153476       | 2157    
  | eolymp.com                             | 1651     | 152475       | 8550
  | hackerearth.com                        | 1907     | 140842       | 1624    
@@ -25,7 +25,7 @@
  | codingame.com                          | 62       | 48566        | 1320    
  | acmp.ru                                | 673      | 40972        | 1000
  | bestcoder.hdu.edu.cn                   | 156      | 38962       
- | loj.ac                                 | 36       | 36750        | 2850           
+ | loj.ac                                 | 36       | 36750        | 2850          | Public   
  | lightoj.com                            | 103      | 31101        | 1000    
  | cups.online                            | 306      | 29426       
  | usaco.org                              | 55       | 22853       
@@ -62,7 +62,7 @@
  | contest.yandex.ru/CYF                  | 227      | 2077        
  | pcms.university.innopolis.ru           | 1        | 1676        
  | karelia.snarknews.info                 | 128      | 1603        
- | oj.uz                                  | 20       | 1000+      | 1300
+ | oj.uz                                  | 20       | 1000+         | 1300  | Public
  | potyczki.mimuw.edu.pl                  | 6        | 997         
  | icfpconference.org                     | 25       | 907         
  | bubblecup.org                          | 10       | 789         
