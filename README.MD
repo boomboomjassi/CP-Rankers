@@ -40,7 +40,6 @@
  | yandex.com/cup                         | 52       | 12499       
  | algotester.com                         | 484      | 11541        | 1477     
  | opencup.ru                             | 149      | 11490       
- | cphof.org                              | 192      | 11167       
  | acmu.ru                                | 639      | 10585       
  | csacademy.com                          | 127      | 8586         | 657           | Public
  | russiancodecup.ru                      | 36       | 7515        
@@ -99,7 +98,6 @@
  | poj.org                                | 0        | 0           
  | prepbytes.com                          | 0        | 0           
  | uoj.ac                                 | 0        | 0           
- | vjudge.net/article/380                 | 0        | 0           
  | dmoj.ca                                | 0        | 0           
  | poj.org                                | 0        | 0          
  | qoj.ac                                 | 0        | 0           
@@ -120,6 +118,13 @@
  | jisuanke.com                           | 0        | 0           
  | darkbzoj.cc                            | 0        | 0           
  | cpc.csgrandeur.cn                      | 0        | 0           
+
+## Virtual OJs
+
+| Website                                | Contests | Users        | Problems    | Solutions(Past Contest & Practice)
+ | -------------------------------------- | -------- | ------------ | ----------- | ------------------------
+ | cphof.org                              | 192      | 11167       
+ | vjudge.net/article/380                 | 0        | 0           
 
 
 
