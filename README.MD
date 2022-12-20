@@ -68,9 +68,9 @@
  | algoge.com                             | 15       | 375         
  | contest.bsuir.by                       | 43       | 331         
  | it-edu.mipt.ru                         | 2        | 40          
+ | acm.mipt.ru                            | 0        | 0          
  | ac.2333.moe/Problem/view.xhtml?id=1642 | 0        | 0           
  | acm.hdu.edu.cn                         | 30       | 0           
- | acm.hdu.edu.cn                         | 0        | 0           
  | acm.petrsu.ru                          | 13       | 0           
  | acm.scu.edu.cn/soj/index.action        | 0        | 0           
  | acmicpc.net                            | 0        | 0           
@@ -97,7 +97,33 @@
  | prepbytes.com                          | 0        | 0           
  | uoj.ac                                 | 0        | 0           
  | vjudge.net/article/380                 | 0        | 0           
- 
+ | oj.uz                                  | 0        | 0           
+ | dmoj.ca                                | 0        | 0           
+ | poj.org                                | 0        | 0          
+ | qoj.ac                                 | 0        | 0           
+ | luogu.com.cn                           | 0        | 0           
+ | zoj.pintia.cn                          | 0        | 0           
+ | cses.fi                                | 0        | 0           
+ | livearchive.onlinejudge.org            | 0        | 0           
+ | acm.timus.ru                           | 0        | 0           
+ | hustoj.org                             | 0        | 0           
+ | codah.club                             | 0        | 0           
+ | judge.u-aizu.ac.jp                     | 0        | 0           
+ | acm.fzu.edu.cn                         | 0        | 0   
+ | acm.hit.edu.cn                         | 0        | 0   
+ | acm.hrbust.edu.cn                      | 0        | 0   
+ | acm.csu.edu.cn                         | 0        | 0           
+ | cstest.scu.edu.cn                      | 0        | 0           
+ | acdream.info                           | 0        | 0           
+ | hihocoder.com                          | 0        | 0           
+ | 51nod.com                              | 0        | 0           
+ | jisuanke.com                           | 0        | 0           
+ | loj.ac                                 | 0        | 0           
+ | darkbzoj.cc                            | 0        | 0           
+ | cpc.csgrandeur.cn                      | 0        | 0           
+
+
+
 ## AI
 
 |Website|Contests |Users|Problems
@@ -115,7 +141,8 @@
 - [Hackerrank](https://www.hackerrank.com/leaderboard?filter=India&filter_on=country&page=1) - 300+
 - [Hackerearth](https://www.hackerearth.com/leaderboard/contests/rated?country=IN) - 900+
 - [CodeChef](https://www.codechef.com/ratings/all?filterBy=Country%3DIndia&itemsPerPage=15&order=asc&page=1&sortBy=global_rank) - 1000+
-- [SPOJ](https://www.spoj.com/ranks/users/IN/start=0) - 1200+
+- [S
+](https://www.spoj.com/ranks/users/IN/start=0) - 1200+
 - [Leetcode](https://leetcode-country-ranking.herokuapp.com/country/IN) - 800
 - [Atcoder](https://atcoder.jp/ranking/all?f.Country=IN&contestType=algo)
 - [Topcoder](https://community.topcoder.com/tc?module=AlgoRank&cc=356)
