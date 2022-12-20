@@ -1,4 +1,6 @@
- | Website                                | Contests | Users        | Problems    | Solutions(Past Contest & Practice)
+ ## CP Platforms
+ 
+| Website                                | Contests | Users        | Problems    | Solutions(Past Contest & Practice)
  | -------------------------------------- | -------- | ------------ | ----------- | ------------------------
  | leetcode.com                           | 419      | 5000000+     | 2509        | Public(discussion)
  | projecteuler.net                       | 0        | 1038548      | 821         | Private
@@ -118,13 +120,22 @@
  | darkbzoj.cc                            | 0        | 0           
  | cpc.csgrandeur.cn                      | 0        | 0           
 
+
+## CP Problem Archive
+
+ | Website                                | Contests | Users        | Problems    | Solutions(Past Contest & Practice)
+ | -------------------------------------- | -------- | ------------ | ----------- | ------------------------
+ | bubblecup.org                          | 0        | 0       
+ | icpcarchive.github.io                  | 0        | 0       
+ | icpc.global/worldfinals/past-problems  | 0        | 0       
+
+
 ## Virtual OJs
 
 | Website                                | Contests | Users        | Problems    | Solutions(Past Contest & Practice)
  | -------------------------------------- | -------- | ------------ | ----------- | ------------------------
  | cphof.org                              | 192      | 11167       
  | vjudge.net/article/380                 | 0        | 0           
-
 
 
 ## AI
