@@ -1,5 +1,5 @@
- | Website                                | Contests | Users        | Problems    | Solutions
- | -------------------------------------- | -------- | ------------ | ----------- | --------
+ | Website                                | Contests | Users        | Problems    | Solutions(Past Contest & Practice)
+ | -------------------------------------- | -------- | ------------ | ----------- | ------------------------
  | leetcode.com                           | 419      | 5000000+     | 2509        | Public
  | projecteuler.net                       | 0        | 1038548      | 821         | Private
  | spoj.com                               | 5345     | 1011912      | 6975        | Private
@@ -11,7 +11,7 @@
  | codingcompetitions.withgoogle.com      | 283      | 363510      
  | hackerrank.com                         | 392      | 275250       | 560     
  | codeforces.com/gyms                    | 1386     | 220840      
- | atcoder.jp                             | 970      | 210837       | 0            | Public
+ | atcoder.jp                             | 970      | 210837       | 5000+        | Public
  | acm.timus.ru                           | 108      | 153476       | 2157    
  | eolymp.com                             | 1651     | 152475       | 8550
  | hackerearth.com                        | 1907     | 140842       | 1624    
