@@ -11,7 +11,7 @@
  | uva.onlinejudge.org                    | 58       | 411664       | 5400+       | Private
  | codingcompetitions.withgoogle.com      | 283      | 363510       | 300+        | Public(Editorials)
  | hackerrank.com                         | 392      | 275250       | 560         | Private
- | codeforces.com/gyms                    | 1386     | 220840       | 0           | Public
+ | codeforces.com/gyms                    | 110      | 220840       | 1386        | Public
  | atcoder.jp                             | 970      | 210837       | 5000+       | Public
  | acm.timus.ru                           | 108      | 153476       | 2157        | Public(discussion)
  | eolymp.com                             | 1651     | 152475       | 8550        | Public(discussion)
