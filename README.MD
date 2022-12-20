@@ -126,8 +126,9 @@
  | Website                                | Contests | Users        | Problems    | Solutions(Past Contest & Practice)
  | -------------------------------------- | -------- | ------------ | ----------- | ------------------------
  | bubblecup.org                          | 0        | 0       
- | icpcarchive.github.io                  | 0        | 0       
- | icpc.global/worldfinals/past-problems  | 0        | 0       
+ | icpcarchive.github.io                  | 0        | 0            | 2008-2021    | Yes              
+ | icpc.global/worldfinals/past-problems  | 0        | 0            |   -          | No
+ | icpcarchive.github.io or [here](https://github.com/boomboomjassi/CP-Rankers/blob/main/From_Baylor_to_Baylor.pdf)        | 0        | 0            | 1991-2006    | No              
 
 
 ## Virtual OJs
