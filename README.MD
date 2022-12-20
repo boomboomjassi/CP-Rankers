@@ -141,8 +141,7 @@
 - [Hackerrank](https://www.hackerrank.com/leaderboard?filter=India&filter_on=country&page=1) - 300+
 - [Hackerearth](https://www.hackerearth.com/leaderboard/contests/rated?country=IN) - 900+
 - [CodeChef](https://www.codechef.com/ratings/all?filterBy=Country%3DIndia&itemsPerPage=15&order=asc&page=1&sortBy=global_rank) - 1000+
-- [S
-](https://www.spoj.com/ranks/users/IN/start=0) - 1200+
+- [SPOJ](https://www.spoj.com/ranks/users/IN/start=0) - 1200+
 - [Leetcode](https://leetcode-country-ranking.herokuapp.com/country/IN) - 800
 - [Atcoder](https://atcoder.jp/ranking/all?f.Country=IN&contestType=algo)
 - [Topcoder](https://community.topcoder.com/tc?module=AlgoRank&cc=356)
