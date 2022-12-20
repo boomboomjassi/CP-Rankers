@@ -1,6 +1,6 @@
  | Website                                | Contests | Users        | Problems    | Solutions(Past Contest & Practice)
  | -------------------------------------- | -------- | ------------ | ----------- | ------------------------
- | leetcode.com                           | 419      | 5000000+     | 2509        | Public
+ | leetcode.com                           | 419      | 5000000+     | 2509        | Public(discussion)
  | projecteuler.net                       | 0        | 1038548      | 821         | Private
  | spoj.com                               | 5345     | 1011912      | 6975        | Private
  | codechef.com                           | 1901     | 1000000+     | 3981        | Public
@@ -12,8 +12,8 @@
  | hackerrank.com                         | 392      | 275250       | 560         | Private
  | codeforces.com/gyms                    | 1386     | 220840       | 0           | Public
  | atcoder.jp                             | 970      | 210837       | 5000+       | Public
- | acm.timus.ru                           | 108      | 153476       | 2157    
- | eolymp.com                             | 1651     | 152475       | 8550
+ | acm.timus.ru                           | 108      | 153476       | 2157        | Public(discussion)
+ | eolymp.com                             | 1651     | 152475       | 8550        | Public(discussion)
  | hackerearth.com                        | 1907     | 140842       | 1624    
  | open.kattis.com                        | 13850    | 140759       | 3580    
  | dmoj.ca                                | 381      | 139300       | 4552        
