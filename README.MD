@@ -19,7 +19,7 @@
  | dmoj.ca                                | 381      | 139300       | 4552        
  | facebook.com/hackercup                 | 61       | 114495      
  | cses.fi                                | 0        | 99187        | 300 
- | topcoder.com                           | 2678     | 83582        | 5500    
+ | topcoder.com                           | 2678     | 83582        | 5500         | Public    
  | geeksforgeeks.org                      | 167      | 72530        | 2755    
  | my.newtonschool.co                     | 32       | 55681        | 92      
  | codingame.com                          | 62       | 48566        | 1320    
