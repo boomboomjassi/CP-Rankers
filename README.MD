@@ -51,6 +51,7 @@
  | acm.bsu.by                             | 126      | 6001        
  | adventofcode.com                       | 205      | 5552        
  | binarysearch.com                       | 64       | 5077        
+ | oj.uz                                  | 20       | 4000+         | 1300    | Public
  | yukicoder.me                           | 413      | 3861        
  | tlx.toki.id                            | 141      | 3821        
  | judge.yosupo.jp                        | 0        | 3306         | 144       | Public
@@ -63,7 +64,6 @@
  | contest.yandex.ru/CYF                  | 227      | 2077        
  | pcms.university.innopolis.ru           | 1        | 1676        
  | karelia.snarknews.info                 | 128      | 1603        
- | oj.uz                                  | 20       | 1000+         | 1300    | Public
  | potyczki.mimuw.edu.pl                  | 6        | 997         
  | icfpconference.org                     | 25       | 907         
  | bubblecup.org                          | 10       | 789         
