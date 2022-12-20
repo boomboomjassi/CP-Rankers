@@ -4,6 +4,7 @@
  | projecteuler.net                       | 0        | 1038548      | 821         | Private
  | spoj.com                               | 5345     | 1011912      | 6975        | Private
  | codechef.com                           | 1901     | 1000000+     | 3981        | Public
+ | acm.hdu.edu.cn                         | 30       | 824861       | 6300        | Private   
  | codeforces.com                         | 1688     | 821831       | 8400        | Public
  | interviewbit.com                       | 116      | 607104       | 604         | Private   
  | acmicpc.net                            | 481      | 413822       | 25632       | Private
@@ -21,11 +22,11 @@
  | cses.fi                                | 0        | 99187        | 300         | Public
  | topcoder.com                           | 2678     | 83582        | 5500        | Public    
  | geeksforgeeks.org                      | 167      | 72530        | 2755        | Public(go pointless)/Private
- | my.newtonschool.co                     | 32       | 55681        | 92      
+ | my.newtonschool.co                     | 32       | 55681        | 92          | Public
  | codingame.com                          | 62       | 48566        | 1320    
- | acmp.ru                                | 673      | 40972        | 1000
- | bestcoder.hdu.edu.cn                   | 156      | 38962       
- | loj.ac                                 | 36       | 36750        | 2850         | Public   
+ | acmp.ru                                | 673      | 40972        | 1000        | Private
+ | bestcoder.hdu.edu.cn                   | 156      | 38962        | 700+        | Public(Editorials)
+ | loj.ac                                 | 36       | 36750        | 2850        | Public   
  | lightoj.com                            | 103      | 31101        | 1000    
  | cups.online                            | 306      | 29426       
  | usaco.org                              | 55       | 22853       
@@ -74,7 +75,6 @@
  | it-edu.mipt.ru                         | 2        | 40          
  | acm.mipt.ru                            | 0        | 0          
  | ac.2333.moe/Problem/view.xhtml?id=1642 | 0        | 0           
- | acm.hdu.edu.cn                         | 30       | 0           
  | acm.petrsu.ru                          | 13       | 0           
  | acm.scu.edu.cn/soj/index.action        | 0        | 0           
  | aigaming.com                           | 1        | 0           
