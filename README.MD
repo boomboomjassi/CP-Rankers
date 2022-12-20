@@ -8,24 +8,24 @@
  | interviewbit.com                       | 116      | 607104       | 604         | Private   
  | acmicpc.net                            | 481      | 413822       | 25632       | Private
  | uva.onlinejudge.org                    | 58       | 411664       | 5400+       | Private
- | codingcompetitions.withgoogle.com      | 283      | 363510       | 0           | Public
+ | codingcompetitions.withgoogle.com      | 283      | 363510       | 0           | Private
  | hackerrank.com                         | 392      | 275250       | 560         | Private
  | codeforces.com/gyms                    | 1386     | 220840       | 0           | Public
  | atcoder.jp                             | 970      | 210837       | 5000+       | Public
  | acm.timus.ru                           | 108      | 153476       | 2157        | Public(discussion)
  | eolymp.com                             | 1651     | 152475       | 8550        | Public(discussion)
- | hackerearth.com                        | 1907     | 140842       | 1624    
- | open.kattis.com                        | 13850    | 140759       | 3580    
- | dmoj.ca                                | 381      | 139300       | 4552        
- | facebook.com/hackercup                 | 61       | 114495      
- | cses.fi                                | 0        | 99187        | 300 
- | topcoder.com                           | 2678     | 83582        | 5500         | Public    
- | geeksforgeeks.org                      | 167      | 72530        | 2755    
+ | hackerearth.com                        | 1907     | 140842       | 1624        | Public(go pointless)/Private
+ | open.kattis.com                        | 13850    | 140759       | 3580        | Private
+ | dmoj.ca                                | 381      | 139300       | 4552        | Private
+ | facebook.com/hackercup                 | 61       | 114495       | 0           | Private
+ | cses.fi                                | 0        | 99187        | 300         | Public
+ | topcoder.com                           | 2678     | 83582        | 5500        | Public    
+ | geeksforgeeks.org                      | 167      | 72530        | 2755        | Public(go pointless)/Private
  | my.newtonschool.co                     | 32       | 55681        | 92      
  | codingame.com                          | 62       | 48566        | 1320    
  | acmp.ru                                | 673      | 40972        | 1000
  | bestcoder.hdu.edu.cn                   | 156      | 38962       
- | loj.ac                                 | 36       | 36750        | 2850          | Public   
+ | loj.ac                                 | 36       | 36750        | 2850         | Public   
  | lightoj.com                            | 103      | 31101        | 1000    
  | cups.online                            | 306      | 29426       
  | usaco.org                              | 55       | 22853       
