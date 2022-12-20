@@ -106,7 +106,6 @@
  | luogu.com.cn                           | 0        | 0           
  | zoj.pintia.cn                          | 0        | 0           
  | livearchive.onlinejudge.org            | 0        | 0           
- | acm.timus.ru                           | 0        | 0           
  | hustoj.org                             | 0        | 0           
  | codah.club                             | 0        | 0           
  | judge.u-aizu.ac.jp                     | 0        | 0           
