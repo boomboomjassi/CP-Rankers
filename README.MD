@@ -17,6 +17,7 @@
  | open.kattis.com                        | 13850    | 140759       | 3580    
  | dmoj.ca                                | 381      | 139300       | 4552        
  | facebook.com/hackercup                 | 61       | 114495      
+ | cses.fi                                | 0        | 99187        | 300 
  | topcoder.com                           | 2678     | 83582        | 5500    
  | geeksforgeeks.org                      | 167      | 72530        | 2755    
  | my.newtonschool.co                     | 32       | 55681        | 92      
@@ -104,7 +105,6 @@
  | qoj.ac                                 | 0        | 0           
  | luogu.com.cn                           | 0        | 0           
  | zoj.pintia.cn                          | 0        | 0           
- | cses.fi                                | 0        | 0           
  | livearchive.onlinejudge.org            | 0        | 0           
  | acm.timus.ru                           | 0        | 0           
  | hustoj.org                             | 0        | 0           
