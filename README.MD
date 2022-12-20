@@ -4,6 +4,7 @@
  | projecteuler.net                       | 0        | 1038548      | 821         | Private
  | spoj.com                               | 5345     | 1011912      | 6975        | Private
  | codechef.com                           | 1901     | 1000000+     | 3981        | Public
+ | poj.org                                | 1528     | 931133       | 3100        | Private
  | acm.hdu.edu.cn                         | 30       | 824861       | 6300        | Private   
  | codeforces.com                         | 1688     | 821831       | 8400        | Public
  | interviewbit.com                       | 116      | 607104       | 604         | Private   
@@ -18,7 +19,7 @@
  | hackerearth.com                        | 1907     | 140842       | 1624        | Public(go pointless)/Private
  | open.kattis.com                        | 13850    | 140759       | 3580        | Private
  | dmoj.ca                                | 381      | 139300       | 4552        | Private
- | facebook.com/codingcompetitions/hacker-cup                 | 61       | 114495       | 250+           | Public
+ | facebook.com/codingcompetitions/hacker-cup | 61   | 114495       | 250+           | Public
  | cses.fi                                | 0        | 99187        | 300         | Public
  | topcoder.com                           | 2678     | 83582        | 5500        | Public    
  | geeksforgeeks.org                      | 167      | 72530        | 2755        | Public(go pointless)/Private
@@ -95,11 +96,9 @@
  | neerc.ifmo.ru/trains                   | 149      | 0           
  | opener.itransition.com                 | 4        | 0           
  | openjudge.cn                           | 0        | 0           
- | poj.org                                | 0        | 0           
  | prepbytes.com                          | 0        | 0           
  | uoj.ac                                 | 0        | 0           
  | dmoj.ca                                | 0        | 0           
- | poj.org                                | 0        | 0          
  | qoj.ac                                 | 0        | 0           
  | luogu.com.cn                           | 0        | 0           
  | zoj.pintia.cn                          | 0        | 0           
