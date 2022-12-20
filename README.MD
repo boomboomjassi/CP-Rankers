@@ -41,7 +41,7 @@
  | opencup.ru                             | 149      | 11490       
  | cphof.org                              | 192      | 11167       
  | acmu.ru                                | 639      | 10585       
- | csacademy.com                          | 127      | 8586         | 657    
+ | csacademy.com                          | 127      | 8586         | 657           | Public
  | russiancodecup.ru                      | 36       | 7515        
  | mycode.prepbytes.com                   | 116      | 7232        
  | russianaicup.ru                        | 33       | 7073        
