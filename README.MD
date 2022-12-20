@@ -30,7 +30,7 @@
  | lightoj.com                            | 103      | 31101        | 1000        | Private
  | cups.online                            | 306      | 29426       
  | usaco.org                              | 55       | 22853       
- | toph.co                                | 382      | 22716        | 1654  
+ | toph.co                                | 382      | 22716        | 1654        | Public(discussion)
  | neerc.ifmo.ru/school                   | 333      | 22136       
  | olympiads.ru/zaoch                     | 42       | 19547       
  | codedrills.io                          | 85       | 18201        | 125     
