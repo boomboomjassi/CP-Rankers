@@ -1,4 +1,4 @@
- | Website                                | Contests | Users | Problems
+ | Website                                | Contests | Users        | Problems
  | -------------------------------------- | -------- | ------------ | --------
  | leetcode.com                           | 419      | 5000000+     | 2509    
  | projecteuler.net                       | 0        | 1038548      | 821       
@@ -6,6 +6,7 @@
  | codechef.com                           | 1901     | 1000000+     | 3981    
  | codeforces.com                         | 1688     | 821831       | 8400    
  | interviewbit.com                       | 116      | 607104       | 604     
+ | acmicpc.net                            | 481      | 413822       | 25632           
  | uva.onlinejudge.org                    | 58       | 411664       | 5400+    
  | codingcompetitions.withgoogle.com      | 283      | 363510      
  | hackerrank.com                         | 392      | 275250       | 560     
@@ -75,7 +76,6 @@
  | acm.hdu.edu.cn                         | 30       | 0           
  | acm.petrsu.ru                          | 13       | 0           
  | acm.scu.edu.cn/soj/index.action        | 0        | 0           
- | acmicpc.net                            | 0        | 0           
  | aigaming.com                           | 1        | 0           
  | azspcs.net                             | 26       | 0           
  | battlecode.org                         | 1        | 0           
