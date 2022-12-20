@@ -21,6 +21,7 @@
  | codingame.com                          | 62       | 48566        | 1320    
  | acmp.ru                                | 673      | 40972        | 1000
  | bestcoder.hdu.edu.cn                   | 156      | 38962       
+ | loj.ac                                 | 36       | 36750        | 2850           
  | lightoj.com                            | 103      | 31101        | 1000    
  | cups.online                            | 306      | 29426       
  | usaco.org                              | 55       | 22853       
@@ -49,7 +50,6 @@
  | binarysearch.com                       | 64       | 5077        
  | yukicoder.me                           | 413      | 3861        
  | tlx.toki.id                            | 141      | 3821        
- | loj.ac                                 | 36       | 36750        | 2850           
  | judge.yosupo.jp                        | 0        | 3306         | 144     
  | contests.snarknews.info                | 171      | 3301        
  | robocontest.uz                         | 133      | 3101        
