@@ -22,6 +22,7 @@
  | open.kattis.com                        | 13850    | 140759       | 3580        | Private
  | dmoj.ca                                | 381      | 139300       | 4552        | Private
  | facebook.com/codingcompetitions/hacker-cup | 61   | 114495       | 250+           | Public
+ | codewars.com                           | 639      | 103000       | 7278        | Public(of below rankers)       
  | cses.fi                                | 0        | 99187        | 300         | Public
  | topcoder.com                           | 2678     | 83582        | 5500        | Public    
  | geeksforgeeks.org                      | 167      | 72530        | 2755        | Public(go pointless)/Private
