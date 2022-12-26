@@ -9,6 +9,7 @@
  | poj.org                                | 1528     | 931133       | 3100        | Private
  | acm.hdu.edu.cn                         | 30       | 824861       | 6300        | Private   
  | codeforces.com                         | 1688     | 821831       | 8400        | Public
+ | luogu.com.cn                           | 690      | 729222       | 7774       | Private          
  | interviewbit.com                       | 116      | 607104       | 604         | Private   
  | acmicpc.net                            | 481      | 413822       | 25632       | Private
  | uva.onlinejudge.org                    | 58       | 411664       | 5400+       | Private
@@ -104,7 +105,6 @@
  | uoj.ac                                 | 0        | 0           
  | dmoj.ca                                | 0        | 0           
  | qoj.ac                                 | 0        | 0           
- | luogu.com.cn                           | 0        | 0           
  | zoj.pintia.cn                          | 0        | 0           
  | livearchive.onlinejudge.org            | 0        | 0           
  | hustoj.org                             | 0        | 0           
