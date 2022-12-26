@@ -75,6 +75,7 @@
  | algoge.com                             | 15       | 375         
  | contest.bsuir.by                       | 43       | 331         
  | it-edu.mipt.ru                         | 2        | 40          
+ | algodaily.com                          | 0        | 0             | 144       | Public
  | acm.mipt.ru                            | 0        | 0          
  | ac.2333.moe/Problem/view.xhtml?id=1642 | 0        | 0           
  | acm.petrsu.ru                          | 13       | 0           
