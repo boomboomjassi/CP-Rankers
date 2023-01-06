@@ -52,6 +52,7 @@
  | russianaicup.ru                        | 33       | 7073        
  | stats.ioinformatics.org                | 34       | 6896        
  | beecrowd.com.br                        | 521      | 6471        
+ | erdos.sdslabs.co                       | 25       | 6178         |308
  | acm.bsu.by                             | 126      | 6001        
  | adventofcode.com                       | 205      | 5552        
  | binarysearch.com                       | 64       | 5077        
